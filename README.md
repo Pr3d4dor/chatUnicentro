@@ -1,4 +1,4 @@
-# Aplicativo de chat pessoal distribu√do
+# Aplicativo de chat pessoal distribuido
 
 - Nome: A definir.
 - Plataforma: Android (Android Studio).
@@ -8,4 +8,4 @@
 - Linguagem: Java.
 - Universidade Estadual do Centro-Oeste.
 - Professor: Tony Alexander Hild.
-- Mat√ria: Sistemas Distribu√dos.
+- Materia: Sistemas Distribuidos.
